@@ -1,10 +1,8 @@
-<img src="https://telegra.ph/file/9936c273582628afb098c.png" alt="logo" target="/blank">
-
 <h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( PREMIUM Renamer ) </a></>
+ <b><a href="https://telegram.me/ad_developers" target="/blank"> AD Rename Bot </a></>
 </h1>
 
-<p align="center">🤍 Thanks for Being Here 🤍</p>
+<p align="center">🤍 Love To star from you 🤍</p>
 
 
 ### ⚡️ Configs 
@@ -34,7 +32,7 @@
 <details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-V2&branch=main&name=gngbabyrenamer" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/harshil8981/AD-Rename-Bot&branch=main&name=AD Rename Bot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -43,7 +41,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/PalashMudi/Gangster-Baby-Renamer-V2(https://github.com/PalashMudi/Gangster-Baby-Renamer-V2)">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -98,10 +96,10 @@
 
 
 ### 🔗 important_Links
-- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
-- [🤩 Create FILE TO LINK BOT](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [❣️ Join Youtube](https://www.youtube.com/@LazyDeveloperr)
+- [🤩 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://telegram.me/ad_developers)
+- [🤩 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://telegram.me/ad_developers)
+- [🤩 ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ](https://telegram.me/hindi_unofficial)
+- [❣️ Join Youtube](https://youtube.com/@RishaMela)
 
 
 #### 🧡 Respecting... 🧡
@@ -110,5 +108,5 @@
 
 ### 🤩 INSPIRATION
 <a href="#">
-   <p>❣️ GANGSTER-BABY 🔥</p>
+   <p>❣️ Love to Code 🔥</p>
 </a>
