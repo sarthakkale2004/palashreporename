@@ -49,7 +49,7 @@ async def start(client, message):
 	I am file renamer bot, Please sent any telegram**Document Or Video** and enter new filename to rename it"""
         await message.reply_photo(photo=LAZY_PIC,
                                 caption=txt,
-                                reply_markup=InlineKeyboardMarkup(
+                                reply_markup=InlineKeyboardMarkup([
                                       [InlineKeyboardButton("✰ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✰", url="https://t.me/rb1bots")],
                                       [InlineKeyboardButton("ᴍᴏᴠɪᴇs", url="https://t.me/requestbox1")],
                                       [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ʙᴏᴛ", url='https://t.me/helpsarthak_bot'),
@@ -63,7 +63,7 @@ async def start(client, message):
                 await client.send_message(id, "Your Friend is Already Using Our Bot")
                 await message.reply_photo(photo=LAZY_PIC,
                                          caption=txt,
-                                         reply_markup=InlineKeyboardMarkup(
+                                         reply_markup=InlineKeyboardMarkup([
                                              [InlineKeyboardButton("ᴘᴏᴡᴇʀᴇᴅ ʙʏ", url="https://t.me/rb1bots")],
                                              [InlineKeyboardButton("ᴍᴏᴠɪᴇs", url="https://t.me/requestbox1")],
                                               [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url='https://t.me/helpsarthak_bot'),
@@ -83,7 +83,7 @@ async def start(client, message):
 	__I am file renamer bot, Please send any telegram 
 	**Document Or Video** and enter new filename to rename it__
 	""", reply_to_message_id=message.id,
-                                     reply_markup=InlineKeyboardMarkup(
+                                     reply_markup=InlineKeyboardMarkup([
                                          [InlineKeyboardButton("ᴘᴏᴡᴇʀᴇᴅ ʙʏ", url="https://t.me/rb1bots")],
                                               [InlineKeyboardButton("ᴍᴏᴠɪᴇs", url="https://t.me/requestbox1")],
                                               [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url='https://t.me/helpsarthak_bot'),
